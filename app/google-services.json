@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505816199354",
+    "project_id": "oauthexample-5ac63"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505816199354:android:2558b09bdb7bfb44",
+        "android_client_info": {
+          "package_name": "com.example.taek.oauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505816199354-b62oag54ovjfddad6jtbasvd72hu6aqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taek.oauthexample",
+            "certificate_hash": "6ca74a8d25287d6a229b640e811bcc82c7399b69"
+          }
+        },
+        {
+          "client_id": "505816199354-t4hmtn4hgmgagjgcg527dj202443ds8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs0-v02kOu9MaP14OgjoYHw_Mu778Y4pA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
